@@ -18,6 +18,7 @@ dependencies {
 	     compile 'com.github.wzgiceman:xUtilsDb:1.0'
 }
 
+如果下载失败，需要科学上网哦
 ```
 
 ##使用

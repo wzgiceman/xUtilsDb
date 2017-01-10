@@ -76,3 +76,7 @@ db.delete(testEntity);
 ### 5.其他使用方法，可参考xutils3使用Db使用规则
 
 >[xUtils3](https://github.com/wyouflf/xUtils3)
+
+### QQ交流群
+
+>[聊聊人生，谈谈梦想，交流技术，你可以在这里找到我](https://github.com/wzgiceman/Rxbus/blob/master/gif/qq.png)

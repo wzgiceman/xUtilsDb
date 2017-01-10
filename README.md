@@ -60,7 +60,7 @@ public class TestEntity {
 ```
 
 
-### 3.简单的数据处理（增删改查）
+### 4.简单的数据处理（增删改查）
 
 ```java
 //添加或者更新数据
@@ -73,6 +73,6 @@ db.findFirst(TestEntity.class);
 db.delete(testEntity);
 ```
 
-### 4.其他使用方法，可参考xutils3使用Db使用规则
+### 5.其他使用方法，可参考xutils3使用Db使用规则
 
 >[xUtils3](https://github.com/wyouflf/xUtils3)

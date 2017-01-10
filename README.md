@@ -75,4 +75,4 @@ db.delete(testEntity);
 
 ### 4.其他使用方法，可参考xutils3使用Db使用规则
 
-[xUtils3](https://github.com/wyouflf/xUtils3)
+>[xUtils3](https://github.com/wyouflf/xUtils3)
